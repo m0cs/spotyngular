@@ -29,8 +29,8 @@
     "json-server": "^0.7.25"
   },
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "3.3.5",
     "systemjs": "0.17.1",
-    "typescript": "^1.5.3"
+    "typescript": "1.5.3"
   }
 }
